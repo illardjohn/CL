@@ -1,7 +1,7 @@
  Sure, here's a simple example of a calculator code in Python:
 
 ```python
-# Simple Calculator in Python1
+# Simple Calculator in Python
 
 # Function to add two numbers
 def add(x, y):
